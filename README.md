@@ -356,19 +356,40 @@ Other        █░░░░░░░░░░░░░░░░░░░░   3
 
 ---
 
-<!-- SUPPORT -->
+<!-- THANK YOU / FOOTER -->
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, don't forget to star them!
+<br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="120">
+
+<br/><br/>
+
+# 🌟 Thanks for stopping by!
+
+<h3>If you find my projects interesting, don't forget to ⭐ star them!</h3>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
 
-**Made with ❤️ and ☕ by Abhijith Krishna G**
+<br/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-krishna-g/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-A960FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ub-portfolio.vercel.app/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithkrishnag234@gmail.com)
+
+<br/><br/>
+
+<h2>Made with ❤️ and ☕ by <a href="https://github.com/uselessbruh-stack">Abhijith Krishna G</a></h2>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 </div>
 
