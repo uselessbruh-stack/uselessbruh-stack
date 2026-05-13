@@ -18,11 +18,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=uselessbruh&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=uselessbruh-stack&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/uselessbruh?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/uselessbruh?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/uselessbruh-stack?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/uselessbruh-stack?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/uselessbruh?style=for-the-badge&logo=github&color=f5c518&labelColor=c9a20a)](https://github.com/uselessbruh?tab=repositories)
+[![GitHub Stars](https://img.shields.io/github/stars/uselessbruh-stack?style=for-the-badge&logo=github&color=f5c518&labelColor=c9a20a)](https://github.com/uselessbruh-stack?tab=repositories)
 
 </div>
 
@@ -68,7 +68,7 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=uselessbruh&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uselessbruh-stack&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -194,12 +194,12 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 
 <div align="center">
 
-<a href="https://github.com/uselessbruh/TELEports">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uselessbruh&repo=TELEports&theme=radical&border_color=7F3FBF&bg_color=0D1117" />
+<a href="https://github.com/uselessbruh-stack/TELEports">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uselessbruh-stack&repo=TELEports&theme=radical&border_color=7F3FBF&bg_color=0D1117" />
 </a>
   
-<a href="https://github.com/uselessbruh/uselessbruh">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uselessbruh&repo=uselessbruh&theme=radical&border_color=7F3FBF&bg_color=0D1117" />
+<a href="https://github.com/uselessbruh-stack/uselessbruh-stack">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uselessbruh-stack&repo=uselessbruh-stack&theme=radical&border_color=7F3FBF&bg_color=0D1117" />
 </a>
 
 </div>
@@ -233,9 +233,9 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uselessbruh&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=A960FF&icon_color=F8D866&text_color=C9D1D9&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uselessbruh-stack&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=A960FF&icon_color=F8D866&text_color=C9D1D9&hide_border=false&count_private=true" />
  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uselessbruh&theme=radical&border=7F3FBF&background=0D1117&stroke=A960FF&ring=A960FF&fire=F8D866&currStreakLabel=A960FF&sideLabels=A960FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uselessbruh-stack&theme=radical&border=7F3FBF&background=0D1117&stroke=A960FF&ring=A960FF&fire=F8D866&currStreakLabel=A960FF&sideLabels=A960FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -243,7 +243,7 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uselessbruh&layout=donut-vertical&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=A960FF&text_color=C9D1D9&langs_count=10&hide_border=false" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uselessbruh-stack&layout=donut-vertical&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=A960FF&text_color=C9D1D9&langs_count=10&hide_border=false" />
 
 </div>
 
@@ -253,7 +253,7 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 
 <div align="center">
 
-[![Abhijith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uselessbruh&bg_color=0D1117&color=A960FF&line=A960FF&point=F8D866&area=true&area_color=7F3FBF&hide_border=false&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhijith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uselessbruh-stack&bg_color=0D1117&color=A960FF&line=A960FF&point=F8D866&area=true&area_color=7F3FBF&hide_border=false&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -264,9 +264,9 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uselessbruh/uselessbruh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uselessbruh/uselessbruh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/uselessbruh/uselessbruh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uselessbruh-stack/uselessbruh-stack/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uselessbruh-stack/uselessbruh-stack/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/uselessbruh-stack/uselessbruh-stack/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -303,7 +303,7 @@ fun_fact: "Started with DNA sequences, now I write code sequences 🧬→💻"
 [![Portfolio](https://img.shields.io/badge/Portfolio-A960FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ub-portfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/useless.bruh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithkrishnag234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uselessbruh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uselessbruh-stack)
 
 </div>
 
@@ -371,3 +371,4 @@ Other        █░░░░░░░░░░░░░░░░░░░░   3
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
 
 </div>
+
