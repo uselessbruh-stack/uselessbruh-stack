@@ -385,7 +385,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░   3
 
 <br/><br/>
 
-<h2>Made with ❤️ and ☕ by <a href="https://github.com/uselessbruh-stack">Abhijith Krishna G</a></h2>
+<h2><a href="https://github.com/uselessbruh-stack">Abhijith Krishna G</a></h2>
 
 <br/>
 
